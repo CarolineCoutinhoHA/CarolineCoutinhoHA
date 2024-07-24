@@ -6,7 +6,7 @@
 
 💞️ Estou procurando colaborar em projetos open source e soluções tecnológicas inovadoras.
 
-📫 Como me encontrar: Você pode me contatar pelo LinkedIn ou por email em caroline.coutinho@example.com.
+📫 Como me encontrar: Você pode me contatar pelo LinkedIn ou por email em carolinecoutinhoh@gmail.com
 
 😄 Pronomes: Ela/Dela
 

@@ -15,11 +15,9 @@
 ⚡ Curiosidade: Gosto de resolver problemas complexos e encontrar soluções inovadoras, o que me motiva a constantemente aprimorar minhas habilidades técnicas.
 
 
-<br/>[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/caroline-coutinho-a94a97281)
-[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](carolinecoutinhoh@gmail.com)
+<br/>[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/caroline-coutinho-a94a97281)<br/>
 
 
-<p></p>
     
 ## TECNOLOGIAS QUE USO NO MEU DIA:
 

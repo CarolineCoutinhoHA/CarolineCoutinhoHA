@@ -19,7 +19,7 @@
 
 
     
-## TECNOLOGIAS QUE USO NO MEU DIA:
+## Tecnologias que uso no meu dia:
 
 <p align="center">
   <a href="https://skillicons.dev">

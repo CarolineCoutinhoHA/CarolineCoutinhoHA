@@ -23,7 +23,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,html,java,mysql,spring,postgres" />
+    <img src="https://skillicons.dev/icons?i=git,github,java,mysql,spring" />
   </a>
 </p><br/><br/>
 

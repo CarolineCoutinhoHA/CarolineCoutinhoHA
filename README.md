@@ -31,6 +31,18 @@
 ![CarolineCoutinhoHA's GitHub stats](https://github-readme-stats.vercel.app/api?username=CarolineCoutinhoHA&show_icons=true&theme=radical)
 ![CarolineCoutinhoHA's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=CarolineCoutinhoHA&theme=blue-green)
 
+<br/>
+<hr/>
 
+
+## MINHAS CONTRIBUIÇÕES
+  
+  <br>
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
+  
+  <br/><br/><br/>
+</div>
+
+<hr/>
 
 

@@ -4,7 +4,7 @@
 
 👀 Tenho interesse em desenvolvimento full stack, engenharia de software e aprendizado contínuo.
 
-🌱 Atualmente, estou aprendendo Java, Spring Boot, tecnologias de back-end e front-end como parte do bootcamp Java Fullstack da Generation.
+🌱 Atualmente, estou aprendendo Java, Spring Boot, tecnologias de back-end e front-end.
 
 💞️ Estou procurando colaborar em projetos open source e soluções tecnológicas inovadoras.
 
